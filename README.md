@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tatiuska.
 - 🌱 I’m currently learning C, HTML, CSS, Git, Java.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 😍 I like old movies, plants, cats, interior design.
+- 😍 I like old movies, plants, cats, embroidery, interior design.
 - 📫 How to reach me tatiuska.dev@gmail.com.
 
 <!---
