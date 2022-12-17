@@ -33,6 +33,8 @@
     
     ![Snake animation](https://github.com/tatiuska/tatiuska/blob/output/github-contribution-grid-snake.svg)
     
+    ![Snake animation](https://raw.githubusercontent.com/tatiuska/tatiuska/main/github-contribution-grid-snake.svg)
+    
   </div>
   
 <!---
