@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tatiuska.
-- 🌱 I’m currently learning C, HTML, CSS, Git, Java.
-- 💞️ I’m looking to collaborate on open-source projects.
-- 😍 I like old movies, plants, cats, embroidery, interior design.
+### Olá, sou a Tatiana!
+- 👩‍🎓 Estudo Análise e Desenvolvimento de Sistemas na Univercidade Católica de Pelotas (UCPel).
+- 💻 Atualmente participo do Projeto de Extensão de Desenvolvimento de Software da UCPel (2022-atual).
+- 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.
 
 <div align="center">
   <a href="https://github.com/tatiuska">
