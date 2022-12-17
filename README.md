@@ -31,9 +31,9 @@
     <a href="mailto:tatiuska.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/tatiana-weska" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
     
-    ![Snake animation](https://github.com/tatiuska/tatiuska/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/tatiuska/tatiuska/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
     
-    ![Snake animation](https://raw.githubusercontent.com/tatiuska/tatiuska/main/github-contribution-grid-snake.svg)
+    ![Snake animation](https://raw.githubusercontent.com/tatiuska/tatiuska/main/github-contribution-grid-snake.svg#gh-light-mode-only)
     
   </div>
   
