@@ -1,5 +1,5 @@
 ### Oi, sou a Tatiana!
-- 👩‍🎓 Estudo Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel).
+- 📓 Estudo Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel).
 - 💻 Atualmente participo do Projeto de Extensão de Desenvolvimento de Software da UCPel (2022-atual).
 - 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.
 
