@@ -32,7 +32,7 @@
     <a href="https://www.linkedin.com/in/tatiana-weska" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tatiuska&bg_color=474747&color=f8f2f7&line=4c999e&point=ba90d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tatiuska&bg_color=212121&color=ffffff&line=7ee0e7&point=cc72fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <!---
 tatiuska/tatiuska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
