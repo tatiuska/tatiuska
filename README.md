@@ -1,6 +1,6 @@
 # Oioioi, meu nome é Tatiana!
-- 📓 Estudo Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel) (2022-atual).
-- 💻 Participo do Projeto de Extensão de Desenvolvimento de Software da UCPel (2022-atual).
+- 📓 Estudo Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel) (Fev/2022-atual).
+- 💻 Participo do Projeto de Extensão em Desenvolvimento de Software da UCPel (Set/2022-atual).
 - 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.
 
 <div align="center">
