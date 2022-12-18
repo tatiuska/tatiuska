@@ -32,6 +32,8 @@
     <a href="https://www.linkedin.com/in/tatiana-weska" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
   
+  ##
+  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tatiuska&bg_color=282a36&color=ff79c6&line=8be9fd&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <!---
