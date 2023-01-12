@@ -3,11 +3,13 @@
 - 💻 Participo do Projeto de Extensão em Desenvolvimento de Software da UCPel (Set/2022-atual), focado em Desenvolvimento Front-end.
 - 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.
 
+- Obs: comentei meus GitHub Stats momentaneamente, pois estão com problema (12/01/23).
+<!--
 <div align="center">
   <a href="https://github.com/tatiuska">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiuska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiuska&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Tatiana-VSCode" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
