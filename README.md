@@ -23,10 +23,9 @@
     <img align="center" alt="Tatiana-Python" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img align="center" alt="Tatiana-Jupyter" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
     <img align="center" alt="Tatiana-Git" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img align="center" alt="Tatiana-LaTeX" width="40" height="30" src=""/>
+    <img align="center" alt="Tatiana-LaTeX" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
     <img align="center" alt="Tatiana-Figma" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
     <img align="center" alt="Tatiana-Trello" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
-  <i class="devicon-latex-original"></i>
   </div>
   
   ##
