@@ -24,6 +24,7 @@
     <img align="center" alt="Tatiana-Jupyter" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
     <img align="center" alt="Tatiana-Git" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img align="center" alt="Tatiana-LaTeX" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+    <img align="center" alt="Tatiana-LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"/>
     <img align="center" alt="Tatiana-Figma" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
     <img align="center" alt="Tatiana-Trello" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
   </div>
