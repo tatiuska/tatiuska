@@ -3,7 +3,6 @@
 - 💻 Participo do Projeto de Extensão em Desenvolvimento de Software da UCPel (Set/2022-atual), focado em Desenvolvimento Front-end.
 - 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.
 
-- :octocat: Obs: comentei meus GitHub Stats momentaneamente, pois estão com problema (12/01/23).
 <!--
 <div align="center">
   <a href="https://github.com/tatiuska">
@@ -34,6 +33,7 @@
     <a href="https://www.twitch.tv/tatiuska_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
     <a href="mailto:tatiuska.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/tatiana-weska" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://codepen.io/tatiuska" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   </div>
   
   ##
