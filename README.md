@@ -3,6 +3,7 @@
 💻 Participo do Projeto de Extensão em Desenvolvimento de Software da UCPel (Set/2022-atual), focado em Desenvolvimento Front-end.</br>
 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.</br>
 
+#
 <div align="center">
   <a href="https://github.com/tatiuska">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiuska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
