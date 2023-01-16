@@ -4,11 +4,11 @@
 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.</br>
 
 #
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/tatiuska">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiuska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiuska&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>-->
   
 ### 🧰 Linguagens e Ferramentas:
   <img align="left" alt="VSCode" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
