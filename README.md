@@ -1,6 +1,7 @@
 # Oioioi, meu nome é Tatiana!
 📓 Estudo Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel) (Fev/2022-atual).</br>
 💻 Participo do Projeto de Extensão em Desenvolvimento de Software da UCPel (Set/2022-atual), focado em Desenvolvimento Front-end.</br>
+🤖 Iniciei estudos em Inteligência Artificial e Machine Learning para pesquisa acadêmica (Jan/2023-atual).</br>
 📚 Tenho estudado JavaScript, Bootstrap, C, Python e LaTeX.</br>
 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.</br>
 
