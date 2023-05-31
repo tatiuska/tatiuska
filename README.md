@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/tatiuska">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiuska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiuska&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiuska&size_weight=0.5&count_weight=0.5&hide=jupyter_notebook&layout=compact&langs_count=8&theme=dracula"/>
 </div>
   
 ### 🧰 Linguagens e Ferramentas:
