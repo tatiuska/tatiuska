@@ -41,13 +41,13 @@
 
 ##
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tatiuska&theme=dracula&hide=[other])](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tatiuska&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
 ### ⏲️Wakatime:
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tatiuska&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tatiuska&layout=compact&theme=dracula&hide=other" />
   </a>
 </div>
 
