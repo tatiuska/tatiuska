@@ -26,7 +26,6 @@
   <img align="left" alt="PyCharm" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="left" alt="Jupyter" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="left" alt="Git" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <i class="devicon-latex-original"></i>
   <img align="left" alt="LaTeX" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   <img align="left" alt="Figma" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="left" alt="Trello" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /><br>
