@@ -26,7 +26,6 @@
   <img align="left" alt="Matplotlib" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
   <img align="left" alt="Pandas" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="left" alt="Numpy" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img align="left" alt="Git" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <br>
 
 ### 🛠️ Ferramentas:
@@ -36,6 +35,7 @@
   <img align="left" alt="Jupyter Notebook" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
   <img align="left" alt="Notion" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
   <img align="left" alt="Trello" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+  <br>
   
 #
 ### 📱Redes Sociais:
