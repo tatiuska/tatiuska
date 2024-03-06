@@ -27,7 +27,8 @@
   <img align="left" alt="Pandas" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="left" alt="Numpy" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <br>
-
+  
+#
 ### 🛠️ Ferramentas:
   <img align="left" alt="Figma" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="left" alt="VS Code" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
