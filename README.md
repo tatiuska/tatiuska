@@ -18,19 +18,30 @@
   <img align="left" alt="CSS3" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="JS" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="Bootstrap" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="left" alt="Git" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="C" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="PHP" width="35px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="Matplotlib" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  <img align="left" alt="Pandas" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="left" alt="Numpy" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <img align="left" alt="Git" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="LaTeX" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /><br>
+  <br>
+
+### 🛠️ Ferramentas:
+  <img align="left" alt="Figma" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="left" alt="VS Code" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="PyCharm" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img align="left" alt="Jupyter Notebook" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img align="left" alt="Notion" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+  <img align="left" alt="Trello" width="30px" style="padding-right: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
   
 #
 ### 📱Redes Sociais:
 <div>
   <a href="https://codepen.io/tatiuska" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="https://www.twitch.tv/tatiuska_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="mailto:tatiuska.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tatiana-weska" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
