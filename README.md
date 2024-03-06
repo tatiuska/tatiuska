@@ -13,8 +13,7 @@
   </a>
 </div>
   
-### 🧰 Linguagens e Ferramentas:
-  <img align="left" alt="VSCode" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+### 🧰 Linguagens e Frameworks:
   <img align="left" alt="HTML5" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="JS" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -23,13 +22,8 @@
   <img align="left" alt="Java" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="PHP" width="35px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="left" alt="Pandas" width="35px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="left" alt="PyCharm" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img align="left" alt="Jupyter" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="left" alt="Git" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="LaTeX" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-  <img align="left" alt="Figma" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="left" alt="Trello" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /><br>
+  <img align="left" alt="LaTeX" width="30px" style="padding-right: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /><br>
   
 #
 ### 📱Redes Sociais:
