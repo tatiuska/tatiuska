@@ -54,7 +54,7 @@
 ### ⏲️Wakatime:
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tatiuska&layout=compact&theme=dracula&hide=other,browsing_for_deletion,text" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tatiuska&layout=compact&theme=dracula&hide=other,browsing_for_deletion,text" />
   </a>
 </div>
 
