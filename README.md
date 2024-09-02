@@ -2,7 +2,7 @@
 📓 Estudo Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel) (Fev/2022-atual).</br>
 💻 Participei do Projeto de Extensão em Desenvolvimento de Software da UCPel (Set/2022-Out/2023), focado em Desenvolvimento Web.</br>
 🤖 Participei de estudos em Inteligência Artificial e Machine Learning para pesquisa acadêmica (Jan-Jul/2023).</br>
-📚 Tenho estudado Python, JS e Design de Interfaces.</br>
+📚 Tenho estudado Python e PHP.</br>
 😍 Gosto de filmes antigos, plantas, gatos, bordado livre e design de interiores.</br>
 
 #
